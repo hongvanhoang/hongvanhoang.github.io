@@ -10,3 +10,5 @@ This line is added on 23 October 2023. I use SSH to push -u, done in the followi
 - add SSH key to GitHub account
   
 git fetch on the local repository doesn't show anything if there isn't any changes.
+
+(git) pull is a combination of fetch and merge.
