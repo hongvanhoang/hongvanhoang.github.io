@@ -9,3 +9,4 @@ This line is added on 23 October 2023. I use SSH to push -u, done in the followi
 - generate SSH key
 - add SSH key to GitHub account
   
+git fetch on the local repository doesn't show anything if there isn't any changes.
